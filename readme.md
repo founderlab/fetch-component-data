@@ -1,4 +1,5 @@
-# Data loading stuff
+# fetch-component-data
+Data fetching helper and Redux middlware for React components in Frameworkstein apps
 
 fetchComponentData
 ------------------
