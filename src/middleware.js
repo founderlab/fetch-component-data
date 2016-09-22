@@ -1,4 +1,4 @@
-import {fetchComponentData} from 'fl-utils'
+import fetchComponentData from './fetchComponentData'
 //import {ROUTER_DID_CHANGE} from 'redux-router' // copied here to avoid a dependency
 const ROUTER_DID_CHANGE = '@@reduxReactRouter/routerDidChange'
 
