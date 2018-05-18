@@ -1,3 +1,14 @@
+## This package has moved to the [Frameworkstein repository](https://github.com/founderlab/frameworkstein/tree/master/packages/fl-base-webapp)
+
+
+-------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
 # fetch-component-data
 Data fetching helper and Redux middlware for React components in Frameworkstein apps
 
